@@ -1,0 +1,31 @@
+body{
+    background-color: slateblue;
+    padding-left: 30%;
+    padding-right:30% ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    background-color: white;
+    padding: 5%;
+    
+}
+.heading{
+    text-align: center;
+}
+form label{
+    font-size: 20px;
+}
+button{
+    text-align: center;
+    font-size: 18px;
+    background-color: darkslategrey ;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 3% 5%;
+}
+input{
+    font-size: 18px;
+}
+select{
+    font-size: 18px;
+}
